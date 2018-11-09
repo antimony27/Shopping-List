@@ -1,7 +1,6 @@
 * avocados
 * mango
-* bananas are amazing, despite what adam says
+* bananas
 * apples
 * hummus
-* olives
-* wine
+* 
